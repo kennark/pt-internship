@@ -7,8 +7,6 @@ import java.nio.file.Paths;
 import java.util.*;
 
 
-// This template shows input parameters format.
-// It is otherwise not mandatory to use, you can write everything from scratch if you wish.
 public class TransactionProcessor {
 
     public static void main(final String[] args) throws IOException {
